@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📌 Discussion Board Application
 
 A full-stack **Discussion Board** project built with:  
@@ -35,3 +36,6 @@ A full-stack **Discussion Board** project built with:
 
 ## 🗂 Project Structure
 
+=======
+# springboot
+>>>>>>> be6e4819115df23af2fd81f690f4daed896a2119
