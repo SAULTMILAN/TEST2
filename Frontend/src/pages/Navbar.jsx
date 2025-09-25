@@ -20,9 +20,7 @@ function Navbar({ user, onLogout }) {
           </>
         ) : (
           <>
-            <Link className="btn btn-outline-light me-2" to="/login">
-              Login
-            </Link>
+            
             <Link className="btn btn-outline-light" to="/signup">
               Signup
             </Link>
